@@ -1,7 +1,7 @@
 # Password policy
 Express.js backend project on password policy
 
-.Password complexity:
+*Password complexity:
 Passwords will be required to include a combination of uppercase and lowercase letters, numbers, and special characters. We will show how small password will be easy for bruteforce attack
 .Password length: 
 Passwords will be required to be at least 12 characters in length.
